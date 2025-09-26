@@ -4,7 +4,7 @@
   "description": "An advanced OSINT bot for Telegram",
   "main": "bot.js",
   "scripts": {
-    "start": "bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "axios": "^1.6.8",
