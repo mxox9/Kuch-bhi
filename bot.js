@@ -5,11 +5,11 @@ const { MongoClient } = require('mongodb');
 const axios = require('axios');
 
 // --- CORE BOT CONFIGURATION ---
-const TOKEN = process.env.BOT_TOKEN;
-const MONGO_URI = process.env.MONGO_URI;
-const CHANNEL_USERNAME = "@REDX64";
-const ADMIN_IDS = [Enter Your Chat id];
-const SUPPORT_ADMIN = "@REDX_64";
+const TOKEN = "8052955693:AAGoXnNg90jqvcC1X1fVo_qKV8Y0eHjDAZg";
+const MONGO_URI = "mongodb+srv://saifulmolla79088179_db_user:17gNrX0pC3bPqVaG@cluster0.fusvqca.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0";
+const CHANNEL_USERNAME = "@mixy_os";
+const ADMIN_IDS = "6052975324";
+const SUPPORT_ADMIN = "@mixy_os";
 
 // --- CONSTANTS ---
 const INITIAL_CREDITS = 2;
