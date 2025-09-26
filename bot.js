@@ -1,4 +1,3 @@
-// --- LOAD LIBRARIES ---
 require('dotenv').config();
 const { Telegraf, Markup, Scenes, session } = require('telegraf');
 const { MongoClient } = require('mongodb');
